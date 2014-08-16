@@ -375,10 +375,10 @@
 		$('#form').hide();
 	}
 	if(hideLocation == 1) {
-		$('.Location').hide();
+		$('#Location').hide();
 	}
 	if(hideMeta == 1) {
-		$('.Meta').hide();
+		$('#Meta').hide();
 	}
 
 	var today = new Date();
