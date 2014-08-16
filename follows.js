@@ -374,7 +374,7 @@
 	if(hideForm == 1) {
 		$('#form').hide();
 	}
-	if(hodeLocation == 1) {
+	if(hideLocation == 1) {
 		$('.Location').hide();
 	}
 	if(hideMeta == 1) {
